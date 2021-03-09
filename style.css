@@ -65,3 +65,20 @@ img {
 html{
     scroll-behavior: smooth;
 }
+
+#kakashi1{
+    height: 400px;
+    width: 300px;
+    transition: transform 0.2s;
+}
+
+
+#kakashi1:hover {
+    transform: scale(0.9);
+}
+
+h4{
+    max-width:700px;
+    margin: auto;
+    
+}
