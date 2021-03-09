@@ -61,3 +61,7 @@ img {
 .links:hover {
     background-color:aquamarine;
 }
+
+html{
+    scroll-behavior: smooth;
+}
